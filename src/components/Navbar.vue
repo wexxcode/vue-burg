@@ -4,8 +4,8 @@
       <img :src="logo" :alt="alt" id="logo" />
     </RouterLink>
     <RouterLink to="/">Home</RouterLink>
-    <RouterLink to="/Sobre">Sobre</RouterLink>
     <RouterLink to="/pedidos">Pedidos</RouterLink>
+    <RouterLink to="/Sobre">Sobre</RouterLink>
   </nav>
 </template>
 
